@@ -1,0 +1,1 @@
+window.ENTApp=window.ENTApp||{};window.ENTApp.settings={};
